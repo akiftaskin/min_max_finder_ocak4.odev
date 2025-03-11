@@ -1,1 +1,1 @@
-# min_max_finder_ocak4.odev
+# Min Max Bulma İşlemi - Veri Bilimi Ocak 4. Ödev
