@@ -1,0 +1,1 @@
+# min_max_finder_ocak4.odev
